@@ -25,7 +25,7 @@
 		</nav>
 	</header>
 	<div id="sidebar">
-	<img src="imagesa/amazon.jpg"> 
+	<img src="images/amazon.jpg"> 
 	<ul id="ula">			
 		<li><button id="btn"> <a href="#"> SUBCATEGORIES </a> </button> </li>
 		<li><button id="btn"> <a href="#">SHIRT</a></button> </li>
