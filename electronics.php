@@ -38,9 +38,9 @@
 	</div>
 	
 	<div id="midbar">   
-    <img class="pic1"	src="imagesa\op5.jpg" title="ONE PLUS 7">
-	<img class="pic2" src="imagesa\oppo.png" title="OPPO">
-	<img class="pic3" src="imagesa\ipx.png" title="IPHONE XS MAX" >
+    <img class="pic1"	src="images\op5.jpg" title="ONE PLUS 7">
+	<img class="pic2" src="images\oppo.png" title="OPPO">
+	<img class="pic3" src="images\ipx.png" title="IPHONE XS MAX" >
 
 	</div> 
 	
