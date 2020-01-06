@@ -36,7 +36,9 @@
 	</ul>
 	</div>
 	
-	<div id="midbar">   	</div> 
+	<div id="midbar">  <h1 style="color:red; font-size:2rem"> THIS IS A LEARNING APPLICATION. IT DOES NOT CONTAINS ANY COPYRIGHT.</h1>	
+	
+	</div> 
 	
 	
 <footer>
