@@ -39,8 +39,8 @@
 	
 	<div id="midbar">   
 
-	<img class="pic1"	src="cloth3.jpg"  title="ADIDAS T SHIRT WHITE">
-	<img class="pic3" src="tshirt.jpg" title="ADIDAS T SHIRT GREY" >
+	<img class="pic1"	src="images/cloth3.jpg"  title="ADIDAS T SHIRT WHITE">
+	<img class="pic3" src="images/tshirt.jpg" title="ADIDAS T SHIRT GREY" >
 
 
 	</div> 
