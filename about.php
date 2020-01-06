@@ -40,7 +40,7 @@
 	<h4 >  FOUNDED </h4>
 	<p > Amazon.com is an American multinational technology company based in Seattle, Washington,
 	that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. 
-	It is considered one of the Big Four technology companies along with Google, Apple, and Facebook.
+	
 
 Amazon is known for its disruption of well-established industries through technological innovation and mass scale.
  It is the world's largest e-commerce marketplace, AI assistant provider, and cloud computing platform[13] as measured by
