@@ -1,0 +1,186 @@
+*
+body{
+	font-family:"times new roman";
+	margin:0;
+	padding:0;
+	background:snow;
+}
+
+nav{ 
+	 margin:5px;
+	 padding:5px;
+	 margin-left:140px;
+	 
+	 
+	
+}
+
+
+button{
+	background-color: rgb(255, 255, 255, 0.2);
+	width:auto;
+	height:35px;
+	border:2px outset black;
+	border-radius:7px;
+
+}
+a{
+	text-decoration:none;
+	color:lime;
+	
+}
+
+#hd{
+	background-color:snow;
+	width:auto;
+	height:50px;
+	margin-top:-23px;
+	background-repeat:no-repeat;
+	background-size:100% auto ;
+	}
+
+#co{
+	margin-top:-60px;
+}
+
+#sidebar {
+	height:550px;
+	width:145px;
+	background-image:url(images/cu.jpg);
+}
+ul li {
+	text-decoration:none;
+	list-style:none;
+	padding:0.5px;
+}
+#ula{
+	margin-left:-40px;
+
+}
+#btn{
+	
+	width:140px;
+    text-align:left;
+}
+#sidebar img{
+	height:120px;
+	width:120px;
+	box-shadow:5px 5px 5px 5px;
+	padding:7px;
+	margin-top:-43px;
+
+	border-radius:10px ;
+	
+}
+
+#midbar {
+	height:550px;
+	width:1101px;
+	background-color:white;
+	margin-top:-560px;
+	margin-left:145px;
+	background-image:url(images/c.gif);
+	background-size:50% 50%;
+	opacity:0.8;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-size: cover ;
+	
+}
+h4{ padding-left:14px;
+	font-weight:bolder;
+	font-style:italic;
+	text-decoration:underline;
+	color:tomato;
+	
+}
+p{
+	margin-left:-110px;
+	font-weight:bolder;
+	font-style:italic;
+    color:peru;
+	
+}
+#box{
+	height:300px;
+	width:500px;
+	box-shadow:10px 10px 10px 10px lightsalmon;
+	color:peru;
+	border-radius:10px;
+}
+#logo{
+	height:120px;
+	width:120px;
+	box-shadow:5px 5px 5px 5px;
+	padding:7px;
+	margin-top:-1px;
+	color:lightsalmon ;
+	border-radius:50%; 
+	
+}
+#midbar #social{
+	height:50px;
+	width:50px;
+	margin-left:-35px;
+}
+
+#midbar a{
+	color:coral;
+	margin-left:-130px;
+}
+#midbar #st{
+	margin-left:360px;
+	color:royalblue;
+}
+#midbar p{
+	margin-left:-150px;
+}
+
+#midbar .callim img{
+	height:200px;
+	width:200px;
+	margin-left:830px;
+	margin-top:-800px;
+
+}   
+#midbar .contact{
+	margin-left:930px;
+	margin-top:50px;
+	padding:0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	background-color:mediumaquamarine;
+	opacity:0.8;
+	width:auto;
+	height:50px;
+	line-height:35px;
+	margin-top:-16px;
+	opacity:1;
+	
+}
+
+
+

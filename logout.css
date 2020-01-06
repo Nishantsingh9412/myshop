@@ -1,0 +1,172 @@
+*
+body{
+	font-family:"times new roman";
+	margin:0;
+	padding:0;
+	background:snow;
+}
+
+nav{ 
+	 margin:5px;
+	 padding:5px;
+	 margin-left:140px;
+	 
+	 
+	
+}
+
+
+button{
+	background-color:black;
+	width:auto;
+	height:35px;
+	border:2px outset black;
+	border-radius:7px;
+
+}
+a{
+	text-decoration:none;
+	color:darkkhaki;
+	
+}
+
+#hd{
+	background-image:url(images/smile2.jpg);
+	width:auto;
+	height:50px;
+	margin-top:-23px;
+    background-size:cover;
+	
+}
+
+#co{
+	margin-top:-60px;
+}
+
+#sidebar 
+{
+	height:550px;
+	width:145px;
+    background-image:url(images/s.jpg);
+	background-size:cover;
+	
+
+}
+ul li {
+	text-decoration:none;
+	list-style:none;
+	padding:0.5px;
+}
+#ula{
+	margin-left:-40px;
+
+}
+#btn{
+	
+	width:140px;
+    text-align:left;
+}
+img{
+	height:120px;
+	width:120px;
+	box-shadow:5px 5px 5px 5px;
+	padding:7px;
+	margin-top:-43px;
+	color: lime;
+	border-radius:10px ;
+	
+}
+
+#midbar {
+	height:550px;
+	width:1150px;
+	background-color:lemonchiffon;
+	margin-top:-550px;
+	margin-left:145px;
+	background-image:url(images/smile.jpg);
+	opacity:0.8;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size: cover ;
+	
+}
+p{
+	color:black;
+}
+
+.form{
+	height:290px;
+	width:300px;
+	opacity:0.9;
+	padding:0px 20px 20px 20px ;
+	margin-top:-55px;
+	
+
+}
+.btnl{
+	width:320px;
+	height:90px;
+	margin-top:-25px;
+	background-color:rgb(255,255,25,0.2);
+	line-height:20px;
+	color:white;
+	border:15px outset lime;
+	border-radius:50px; ;
+}
+form label{
+	float:left;
+	margin-left:5px;
+}
+form input{
+	float:left;
+	margin-left:5px;
+	margin-top:-10px;
+	width:285px;
+	height:30px;
+	border-radius:5px;
+	border:2px solid black;
+}
+
+.submit{
+	color:white;
+	background-color:green;
+	border:2px solid green;
+
+}
+
+.cancel {
+	color:white;
+	background-color:red;
+	border:2px solid red;
+
+}
+.cancel a {
+	color:white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	background-image:url(images/smile2.jpg);
+	opacity:0.8;
+	width:auto;
+	height:50px;
+	line-height:35px;
+	margin-top:-16px;
+	opacity:1;
+	
+}
