@@ -26,7 +26,7 @@
 		</nav>
 	</header>
 	<div id="sidebar">
-	<img src="imagesa/amazon.jpg"> 
+	<img src="images/amazon.jpg"> 
 	<ul id="ula">			
 		<li><button id="btn"> <a href="#"> SUBCATEGORIES </a> </button> </li>
 		<li><button id="btn"> <a href="#">SHIRT</a></button> </li>
@@ -39,8 +39,8 @@
 	
 	<div id="midbar">   
 
-	<img class="pic1"	src="BI\cloth3.jpg"  title="ADIDAS T SHIRT WHITE">
-	<img class="pic3" src="BI\tshirt.jpg" title="ADIDAS T SHIRT GREY" >
+	<img class="pic1"	src="cloth3.jpg"  title="ADIDAS T SHIRT WHITE">
+	<img class="pic3" src="tshirt.jpg" title="ADIDAS T SHIRT GREY" >
 
 
 	</div> 
