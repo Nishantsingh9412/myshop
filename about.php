@@ -43,7 +43,7 @@
 	
 
 Amazon is known for its disruption of well-established industries through technological innovation and mass scale.
- It is the world's largest e-commerce marketplace, AI assistant provider, and cloud computing platform[13] as measured by
+ It is the world's largest e-commerce marketplace, AI assistant provider, and cloud computing platform as measured by
  revenue and market capitalization.[14] Amazon is the largest Internet company by revenue in the world.[15] It is the second 
  largest private employer in the United States[16] and one of the world's most valuable companies. Amazon is the second 
  largest technology company by revenue.  </p>
